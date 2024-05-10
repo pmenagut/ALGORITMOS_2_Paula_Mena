@@ -1,1 +1,2 @@
-# ALGORITMOS_2_Paula_Mena
+# NOMBRE DEL ALUMNO
+
